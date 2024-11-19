@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+scikit-learn = "*"
+nltk = "*"
+pytest = "*"
+spacy = "*"
+transformers = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
