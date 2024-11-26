@@ -89,8 +89,8 @@ The Unredactor is an NLP tool designed to predict and replace redacted names in 
 
 ### Metrics
 - Trained with **1000 IMDB files**:
-  - **F1 Score**: 0.292
-  - **Precision**: 0.297
+  - **F1 Score**: 0.192
+  - **Precision**: 0.197
 
 ### Challenges
 1. **Computational Resources**:
