@@ -85,6 +85,8 @@ The Unredactor is an NLP tool designed to predict and replace redacted names in 
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/JK9Q4yH5FmI/0.jpg)](https://youtu.be/JK9Q4yH5FmI)
+
 ## Results
 
 ### Metrics
