@@ -1,0 +1,5 @@
+- Stack Overflow | https://stackoverflow.com | Troubleshooting, and collaboration
+- pytest | https://docs.pytest.org/en/stable/ | resources
+- https://www.nltk.org/install.html | nltk
+- https://scikit-learn.org/stable/modules/feature_extraction.html#feature-extraction | Dictonary vectorizer
+- https://developers.google.com/apis-explorer/#p/kgsearch/v1/kgsearch.entities.search?indent=true&query=ashton+&types=Person&_h=5& | Entity Search
